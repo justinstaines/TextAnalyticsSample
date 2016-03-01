@@ -23,7 +23,7 @@ namespace TextAnalyticsSample
         {
 
             string accountKey = "lMpbsmK8BGBBY21O+KppkrmuJd/92yoxw1yh6rRYm/M";
-            string inputText = "I hate Tesco";
+            string inputText = "I love Tesco";
 
             using (var httpClient = new HttpClient())
             {
